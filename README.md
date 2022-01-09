@@ -1,7 +1,7 @@
 # Kanye-West---Quote-Generator
 
 ## General info
-A simple project that generates a random Kanye West joke.
+A simple project that generates a random Kanye West quote.
 	
 ## Technologies
 Project is created with:
